@@ -200,3 +200,11 @@ initialised our folder as empty git repositiory
  git remote add is command and origin is the name of that location
 git remote add origin 
 // status git status
+git add filename
+when ever u want to save 
+commits are like checkpoints
+git commit -m "your commit message"
+
+putting ur code to github
+git push remote_name branch_name 
+git push origin master
